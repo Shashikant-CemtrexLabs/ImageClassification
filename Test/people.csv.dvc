@@ -1,0 +1,4 @@
+outs:
+- md5: a85c7bb771f955ac93ec8d7855fa83ff
+  size: 288
+  path: people.csv
